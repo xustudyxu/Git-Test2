@@ -8,5 +8,6 @@ package com.frx01.git_;
 public class TestGit_ {
     public static void main(String[] args) {
         System.out.println("test push");
+        System.out.println("testPUSHPUSH");
     }
 }
